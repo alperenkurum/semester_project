@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Users"
+        android:icon="@drawable/baseline_people_24"
+        android:id="@+id/menu_users"/>
+    <item android:title="Profile"
+        android:icon="@drawable/baseline_person_24_white"
+        android:id="@+id/profile"/>
+</menu>

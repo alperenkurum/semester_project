@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "364509380372",
+    "project_id": "reset-password-763a0",
+    "storage_bucket": "reset-password-763a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364509380372:android:3e7c8380f928e1fbae8c01",
+        "android_client_info": {
+          "package_name": "com.example.semester_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLkaE4YdQjjqyWFw-R1MHYCnPQiTpx_p0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
